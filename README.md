@@ -89,8 +89,8 @@ TIMEZONE="Europe/Paris"  # Timezone système
 > 
 > **L'IA a aidé pour :**
 > - Création & refactoring du script bash (v1)
-> - Simplification logique `configure_php()` 
-> - Rédaction README & dépannage
+> - Simplification logique 
+> - Rédaction README
 > - Optimisation des bonnes pratiques sécurité
 >
 > **J'ai personnellement :**
